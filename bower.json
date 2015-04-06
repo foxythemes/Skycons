@@ -7,9 +7,6 @@
     "The Dark Sky Company <support@forecast.io>"
   ],
   "description": "Skycons is a set of ten animated weather glyphs",
-  "keywords": [
-    "skycons"
-  ],
   "license": "CC0 1.0",
   "ignore": [
     "**/.*",

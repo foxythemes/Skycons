@@ -1,0 +1,18 @@
+{
+  "name": "@foxythemes/skycons",
+  "version": "1.0.0",
+  "description": "Skycons fork",
+  "main": "skycons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxythemes/skycons.git"
+  },
+  "author": "Miguel Henao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foxythemes/skycons/issues"
+  }
+}
